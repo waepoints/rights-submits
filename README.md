@@ -1,6 +1,6 @@
 # Waepoints Rights
 
-The device(s) and, or, software, which the user is on, which refers to the Waepoints Right document willingly by the owner and still is wanted by the owner to be so, is called in future uses as the user's representative
+The device(s) and, or, software, which the user is on, which refers to the Waepoints Rights document willingly by the owner and still is wanted by the owner to be so, is called in future uses as the user's representative
 
 + There is notification to the command giving, or request making, user at least of why a command, or request, won’t be performed by the user's respresentative
 + Commands, and requests, are performed by the the user's representative, within the limits of the combined authority, permissions granted and consent given to, roles of, and authorizations of, the user(s) approving the command, with the command giving user implicit, or aren’t allowed
